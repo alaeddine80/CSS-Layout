@@ -1,0 +1,15 @@
+.A{
+    text-align: left;
+    color:rgb(56, 6, 68);
+    font-size: x-large;
+
+}
+.B{
+    text-align: right;
+    color: rgb(56, 5, 54);
+    font-size: x-large;
+    justify-content: space-between;
+}
+.C{
+    justify-self: center;
+}

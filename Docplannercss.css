@@ -1,0 +1,71 @@
+.B{
+    display: grid;
+   grid-template-columns: auto auto ;
+
+}
+.C{
+    text-align: center;
+}
+.D{
+    text-align: center;
+    font-size: xx-large;
+    color: gray;
+}
+.E{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 2em;
+}
+.F{
+    display:flex;
+    justify-content: space-between;
+}
+.G{
+    display:grid;
+    grid-template-columns: 1fr 2fr;
+}
+.G1{
+    font-size: 40px;
+    color: grey;
+
+}
+.G2{
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr 1fr  ;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr ;
+    gap: 1em;
+}
+.G21{ max-width: 100px;
+    max-height:100px;
+}
+.G22{max-width: 100px;
+    max-height: 100px
+}
+.G23{max-width: 100px;
+    max-height: 100px
+}
+.G24{max-width: 100px;
+    max-height: 100px
+}
+.G25{max-width: 100px;
+    max-height: 100px
+}
+.G26{max-width: 90px;
+    max-height: 90px
+}
+.G27{max-width: 90px;
+    max-height:90px
+}
+.G28{max-width: 90px;
+    max-height:90px
+}
+.G29{max-width: 90px;
+    max-height:90px
+}
+.H{
+    display: block;
+    background-image: url("C:\Users\LENOVO\Desktop\GOMYCODEE\WORK\CSS layout\sygnet.png" alt="docplanner logo">);
+    background-size:cover;
+    
+    
+}
